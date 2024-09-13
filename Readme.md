@@ -17,3 +17,7 @@
 `node ./soal3.js`
 
 ![Soal 3](./images/soal3.png)
+
+`node ./soal4.js`
+
+![Soal 4](./images/soal4.png)
